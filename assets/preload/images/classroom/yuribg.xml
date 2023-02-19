@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuribg.png">
+<SubTexture name="BGYuriANIM instance 0000" x="603" y="0" width="614" height="715" frameX="-1202" frameY="-707" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0001" x="603" y="0" width="614" height="715" frameX="0" frameY="0" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0002" x="1217" y="0" width="618" height="709" frameX="-1199" frameY="-713" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0003" x="0" y="723" width="618" height="709" frameX="-1199" frameY="-713" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0004" x="618" y="723" width="619" height="709" frameX="-1199" frameY="-713" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0005" x="618" y="723" width="619" height="709" frameX="0" frameY="0" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0006" x="0" y="0" width="603" height="723" frameX="-1210" frameY="-699" frameWidth="1819" frameHeight="1422" />
+<SubTexture name="BGYuriANIM instance 0007" x="0" y="0" width="603" height="723" frameX="-1" frameY="-1" frameWidth="1819" frameHeight="1422" />
+</TextureAtlas>

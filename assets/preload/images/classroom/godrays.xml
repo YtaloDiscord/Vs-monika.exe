@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="godrays.png">
+<SubTexture name="light instance 0000" x="0" y="0" width="1959" height="1272" frameX="-16" frameY="-21" frameWidth="2167" frameHeight="1322" />
+</TextureAtlas>

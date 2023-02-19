@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BGSayori.png">
+<SubTexture name="BGSayANIM0000" x="0" y="0" width="236" height="1075" frameX="-55" frameY="-54" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0001" x="0" y="0" width="236" height="1075" frameX="0" frameY="0" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0002" x="712" y="0" width="235" height="1074" frameX="-56" frameY="-53" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0003" x="712" y="0" width="235" height="1074" frameX="0" frameY="0" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0004" x="236" y="0" width="238" height="1075" frameX="-50" frameY="-52" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0005" x="236" y="0" width="238" height="1075" frameX="0" frameY="0" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0006" x="474" y="0" width="238" height="1075" frameX="-49" frameY="-52" frameWidth="352" frameHeight="1173" />
+<SubTexture name="BGSayANIM0007" x="474" y="0" width="238" height="1075" frameX="0" frameY="0" frameWidth="352" frameHeight="1173" />
+</TextureAtlas>
