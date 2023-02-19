@@ -5546,7 +5546,7 @@
 		"splashSkin": "noteSplashes",
 		"song": "Giggle",
 		"needsVoices": true,
-		"arrowSkin": "shadedNOTE_assets",
+		"arrowSkin": "",
 		"stage": "classroom-mexe",
 		"validScore": true,
 		"bpm": 169,
